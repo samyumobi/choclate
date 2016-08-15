@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Choclate</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_choc">Find Choclate</string>
+    <string name="varieties">Varieties</string>
+    <string-array name="choc_brands">
+        <item>White Choclate</item>
+        <item>Milk Choclate</item>
+        <item>Dark Choclate</item>
+        <item>Savoury Choclates</item>
+    <item>Stuffed Choclates</item>
+    </string-array>
+</resources>
